@@ -1,0 +1,85 @@
+
+
+   <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Dancing+Script:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+
+    	body
+    	{
+
+
+
+    		margin: 0;
+
+    	}
+
+        section
+        {
+
+  
+    text-align: center;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover !important;
+    background-position: center!important;
+    ackground-blend-mode: color-burn;
+}
+
+
+    	
+
+
+.watch1 {
+
+    background: #7d381e;
+    
+    background-image: url(../images/women.jpg);
+    
+}
+
+			.watch2
+
+             {
+			    background: #a58579;
+			    
+                background-image: url(../images/mk2.jpg);
+             
+			}
+			    	
+
+    	
+    	
+          h1 {
+    font-size: 50px;
+    color: bisque;
+    margin: 0;
+    font-family: 'Alfa Slab One', cursive;
+    letter-spacing: 2px;
+}
+    	
+
+
+strong {
+    font-family: 'Dancing Script', cursive;
+    font-weight: 800;
+    font-size: 60px;
+}
+    
+
+
+     .wallet
+
+        {
+
+               background: #de4f1a;
+			   
+                 background-image: url(../images/m_5f29d77ba4de41bee3011ca9.jpg);
+             
+
+
+        }
+
+   
